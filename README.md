@@ -1,5 +1,10 @@
 # Discord Quest ByP
 
+
+> [!IMPORTANT]  
+> Discord is improving its quest "skip" detection day by day, and there is a risk of account restrictions!
+
+
 > [!WARNING]
 > Violates Discord ToS. Risk of ban. Use at your own risk.
 
